@@ -113,7 +113,7 @@
 
     // Fingerprint text
     const textSpan = document.createElement("span");
-    textSpan.textContent = MY_GET_FP.fp;
+    textSpan.textContent = GET_FP.fp;
     Object.assign(textSpan.style, {
       userSelect: "text",
       display: "inline-block",
@@ -159,7 +159,7 @@
     copyBtn.addEventListener("click", (e) => {
       e.stopPropagation();
       const payload = {
-        fp: MY_GET_FP.fp,
+        fp: GET_FP.fp,
         nick: iface === "ni" ? Engine.hero.d.nick : hero.nick,
       };
       navigator.clipboard
