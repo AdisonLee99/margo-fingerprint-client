@@ -10,6 +10,7 @@
 // @exclude      https://www.margonem.com/
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @version      1.0.1
 // @updateURL    https://raw.githubusercontent.com/AdisonLee99/margo-fingerprint-client/main/index.js
 // @downloadURL  https://raw.githubusercontent.com/AdisonLee99/margo-fingerprint-client/main/index.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=margonem.pl
