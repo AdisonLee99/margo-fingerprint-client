@@ -10,8 +10,8 @@
 // @exclude      https://www.margonem.com/
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @updateURL    https://raw.githubusercontent.com/TWOJ-USER/TWOJE-REPO/main/SCIEZKA/NazwaSkryptu.user.js
-// @downloadURL  https://raw.githubusercontent.com/TWOJ-USER/TWOJE-REPO/main/SCIEZKA/NazwaSkryptu.user.js
+// @updateURL    https://raw.githubusercontent.com/AdisonLee99/margo-fingerprint-client/refs/heads/main/index.js
+// @downloadURL  https://raw.githubusercontent.com/AdisonLee99/margo-fingerprint-client/refs/heads/main/index.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=margonem.pl
 // ==/UserScript==
 
